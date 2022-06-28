@@ -37,6 +37,11 @@ ol, ul {
 	list-style: none;
 }
 
+#PESALogo {
+    width: 30%;
+    height: 15%;
+}
+
 
 blockquote, q {
 	quotes: none;
