@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Raleway:400,400italic,700,800");
 
 /*
-	Highlights by HTML5 UP
+	Highlights by HTML5 UParrow
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
@@ -2778,7 +2778,7 @@ h1 {
 			-ms-transition: background-color 0.2s ease-in-out;
 			transition: background-color 0.2s ease-in-out;
 			background-color: rgba(144, 144, 144, 0.075);
-			background-image: url("images/arrow.svg");
+			background-image: url("arrow.svg");
 			background-position: center center;
 			background-repeat: no-repeat;
 			border-radius: 100%;
