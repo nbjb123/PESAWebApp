@@ -304,6 +304,10 @@ input, select, textarea {
 			.container {
 				width: 100% !important;
 			}
+			#PESALogo {
+    				width: 100%;
+    				height: 100%;
+			}
              
             
 
